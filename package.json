@@ -1,0 +1,17 @@
+{
+  "name": "fedfe",
+  "version": "1.0.0",
+  "description": "a baclend in at abhay",
+  "keywords": [
+    "javascript",
+    "bankend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Abhaychoudhary",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
